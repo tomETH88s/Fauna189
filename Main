@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAUNA189 Login Resmi & Link FAUNA189 Terpercaya</title>
+    
+    <meta name="description" content="FAUNA189 adalah platform resmi terpercaya menyediakan sensasi hiburan tanpa batas dengan sistem responsif dan layanan maksimal untuk kenyamanan penuh pengguna.">
+    <meta name="keywords" content="fauna189 login resmi, link fauna189, fauna189 login, fauna189">
+    <meta name="author" content="fauna189">
+    <link rel="canonical" href="https://fauna189.pro/">
+    
+    <link rel="stylesheet" href="styles.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://fauna189.pro/#website",
+          "url": "https://fauna189.pro/",
+          "name": "FAUNA189",
+          "description": "Platform resmi terpercaya dengan sensasi hiburan tanpa batas, aman, dan responsif.",
+          "publisher": {
+            "@id": "https://fauna189.pro/#organization"
+          },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://fauna189.pro/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://fauna189.pro/#organization",
+          "name": "FAUNA189",
+          "url": "https://fauna189.pro/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://fauna189.pro/logo.png"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://fauna189.pro/#webpage",
+          "url": "https://fauna189.pro/",
+          "inLanguage": "id-ID",
+          "name": "FAUNA189 Login Resmi & Link FAUNA189 Terpercaya",
+          "isPartOf": {
+            "@id": "https://fauna189.pro/#website"
+          },
+          "about": {
+            "@id": "https://fauna189.pro/#organization"
+          },
+          "description": "Daftar dan masuk melalui link FAUNA189 login resmi. Platform hiburan terpercaya dengan layanan profesional dan sistem paling aman.",
+          "keywords": "fauna189 login resmi, link fauna189",
+          "author": {
+            "@id": "https://fauna189.pro/#organization"
+          }
+        }
+      ]
+    }
+    </script>
+</head>
+<body>
+
+    <header class="header">
+        <div class="container header-container">
+            <div class="logo-box">
+                <img src="logo.png" alt="FAUNA189 Logo" class="site-logo-img">
+            </div>
+
+            <input type="checkbox" id="menu-toggle" class="menu-toggle-checkbox">
+            <label for="menu-toggle" class="menu-icon">
+                <span></span><span></span><span></span>
+            </label>
+
+            <nav class="nav-menu">
+                <ul>
+                    <li><a href="#beranda">Beranda</a></li>
+                    <li><a href="#promo">Promo</a></li>
+                    <li><a href="#panduan">Panduan</a></li>
+                    <li><a href="#kontak">Kontak</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="sub-header">
+        <p class="tagline">Situs Resmi Terpercaya & Teraman</p>
+    </div>
+
+    <section class="hero-banner-section" id="beranda">
+        <div class="container">
+            <div class="hero-text-container">
+                <h1 class="main-title-h1">FAUNA189 LOGIN RESMI</h1>
+                <h2 class="sub-title-h2">LINK FAUNA189 TERPERCAYA</h2>
+                <p class="site-description-p">Temukan pengalaman terbaik bersama kami. Sistem responsif, aman, dan siap memberikan layanan maksimal secara profesional untuk seluruh pengguna platform.</p>
+            </div>
+
+            <div class="responsive-banner-wrapper">
+                <img src="banner-desktop.jpg" alt="FAUNA189 PC Banner" class="banner-img banner-pc">
+                <img src="banner-android.jpg" alt="FAUNA189 Android Banner" class="banner-img banner-android">
+                <img src="banner-ios.jpg" alt="FAUNA189 iOS Banner" class="banner-img banner-ios">
+            </div>
+
+            <div class="action-buttons-container">
+                <div class="action-buttons">
+                    <a href="#login" class="btn btn-login">Masuk Akun</a>
+                    <a href="#daftar" class="btn btn-register">Daftar Sekarang</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="banner-section" id="promo">
+        <div class="container">
+            <h2 class="section-title">PROMO MENARIK</h2>
+            <div class="banner-grid">
+                <div class="banner-card display-frame">
+                    <div class="banner-image-container">
+                        <img src="promo-1.jpg" alt="Promo Spesial Berbakat" class="promo-img">
+                    </div>
+                    <div class="promo-info">
+                        <h3 class="promo-title">Bonus New Member <span class="highlight-text">100%</span></h3>
+                    </div>
+                </div>
+                <div class="banner-card display-frame">
+                    <div class="banner-image-container">
+                        <img src="promo-2.jpg" alt="Promo Eksklusif Member" class="promo-img">
+                    </div>
+                    <div class="promo-info">
+                        <h3 class="promo-title">Cashback Harian <span class="highlight-text">UP TO 20%</span></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" id="kontak">
+        <div class="container">
+            <p>&copy; 2026 <span class="highlight">FAUNA189</span>. Hak Cipta Dilindungi Undang-Undang.</p>
+            <p>Ikuti informasi terbaru dan konten harian kami melalui Instagram resmi: <span class="highlight">@ceritamember.selir77</span></p>
+        </div>
+    </footer>
+
+</body>
+</html>
